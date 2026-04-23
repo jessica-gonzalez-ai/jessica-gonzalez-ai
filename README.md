@@ -25,6 +25,18 @@ I am deeply interested in the intersection of AI with physical and biological sy
 * **Healthcare & Biomedicine:** AI-assisted systems for diagnosis and treatment.
 * **Bioinformatics:** Using computational tools to understand biological data.
 * **Robotics & Electronics:** Building the "hardware" that brings AI to the physical world.
+  
+---
+
+### 💥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=jessica-gonzalez-ai&theme=tokyonight&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🔍 How to reach me 
 * **Email:** [jessica.gonzalez.heredia.ai@gmail.com](mailto:jessica.gonzalez.heredia.ai@gmail.com)
