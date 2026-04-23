@@ -27,7 +27,6 @@ I am deeply interested in the intersection of AI with physical and biological sy
 * **Robotics & Electronics:** Building the "hardware" that brings AI to the physical world.
 
 ## 🔍 How to reach me 
-​
 * **Email:** [jessica.gonzalez.heredia.ai@gmail.com](mailto:jessica.gonzalez.heredia.ai@gmail.com)
 * **LinkedIn:** https://www.linkedin.com/in/jessica-naomi-gonzalez-heredia-a22465405/ 
 
