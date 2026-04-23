@@ -30,7 +30,7 @@ I am deeply interested in the intersection of AI with physical and biological sy
 
 ### 💥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=jessica-gonzalez-ai&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jessica-gonzalez-ai&theme=radicle&hide_border=true)
 
 </td>
 </tr>
