@@ -89,7 +89,7 @@ Optimization of fitness evaluation using **8 concurrent threads (pthreads)** to 
 
 ### 💥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=jessica-gonzalez-ai&theme=radicle&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jessica-gonzalez-ai&theme=tokyonight&hide_border=true)
 
 </td>
 </tr>
