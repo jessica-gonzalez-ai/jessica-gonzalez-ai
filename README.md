@@ -71,7 +71,6 @@ I am an **Artificial Intelligence Engineering** student at the Instituto Tecnol�
 - 🚀 **[Parallel PSO with MPI](https://github.com/jessica-gonzalez-ai/Particle-Swarm-Optimization-MPI)** <br> High-performance optimization using MPI in C.
 - 🧠 **[Functional AI Metrics (Haskell)](https://github.com/jessica-gonzalez-ai/AI-Metrics-Analyzer-Haskell)** <br> AI model analysis using pure functional programming.
 - 🏥 **[Hospital Management System (Java)](https://github.com/jessica-gonzalez-ai/Hospital-Management-System-Java)** <br> Robust OOP implementation for healthcare administration.
-- 🔬 **[AlphaFold Protein Vis (Python)](https://github.com/jessica-gonzalez-ai/AlphaFold-Protein-Visualization)** <br> 3D rendering of proteins (Clubes de Ciencia).
 - 🧮 **[Vectorized K-Means](https://github.com/jessica-gonzalez-ai/Vectorized-KMeans)** <br> Custom implementation of K-Means clustering using NumPy.
 - 🌳 **[Genealogy Logic (Prolog)](https://github.com/jessica-gonzalez-ai/Genealogy-Logic-Prolog)** <br> System for family tree inference using logical rules.
 - 🧮 **[Numerical Optimization](https://github.com/jessica-gonzalez-ai/Numerical-Methods-Optimization)** <br> Python implementations of iterative solvers and non-linear systems.
