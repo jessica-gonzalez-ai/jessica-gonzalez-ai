@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=250&section=header&text=Hi!%20%F0%9F%91%8B%20I%27m%20Jessica&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Student%20%C2%B7%20Global%20Learner%20%C2%B7%20Building%20for%20Impact&descAlignY=60&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF69B4,FF1493,C71585,9370DB,8A2BE2&height=250&section=header&text=Hi!%20%F0%9F%91%8B%20I%27m%20Jessica&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Student%20%C2%B7%20Global%20Learner%20%C2%B7%20Building%20for%20Impact&descAlignY=60&descSize=17"/>
 
 <table width="100%" align="center">
 <tr>
@@ -11,10 +11,10 @@ I am an **Artificial Intelligence Engineering** student at the Instituto Tecnol�
 
 <br/>
   
-![](https://img.shields.io/badge/-AI%20Engineering%20Undergraduate-8b5cf6?style=for-the-badge)
-![](https://img.shields.io/badge/-Matsuo%20Lab%20Student-06b6d4?style=for-the-badge)
-![](https://img.shields.io/badge/-Clubes%20de%20Ciencia%20MX%20Alumna-10b981?style=for-the-badge)
-![](https://img.shields.io/badge/-Bioinformatics%20%26%20Robotics-86b6d4?style=for-the-badge)
+![](https://img.shields.io/badge/-AI%20Engineering%20Undergraduate-FF69B4?style=for-the-badge)
+![](https://img.shields.io/badge/-Matsuo%20Lab%20Student-FF1493?style=for-the-badge)
+![](https://img.shields.io/badge/-Clubes%20de%20Ciencia%20MX%20Alumna-C71585?style=for-the-badge)
+![](https://img.shields.io/badge/-Bioinformatics%20%26%20Robotics-9370DB?style=for-the-badge)
 
 </div>
 </td>
@@ -41,25 +41,25 @@ I am an **Artificial Intelligence Engineering** student at the Instituto Tecnol�
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C%20(pthreads)-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-E34F26?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C%20(pthreads)-FF1493?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-C71585?style=for-the-badge&logo=openjdk&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-9370DB?style=for-the-badge&logo=haskell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-DA70D6?style=for-the-badge)
 
 **Data Science & AI**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Big Data](https://img.shields.io/badge/Big%20Data-150458?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-FF69B4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FF1493?style=for-the-badge&logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-C71585?style=for-the-badge)
+![Big Data](https://img.shields.io/badge/Big%20Data-9370DB?style=for-the-badge)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-C71585?style=for-the-badge&logo=linux&logoColor=white)
 
 </td>
 
@@ -81,15 +81,15 @@ Optimization of fitness evaluation using **8 concurrent threads (pthreads)** to 
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-gonzalez-ai&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-gonzalez-ai&theme=radical&bg_color=0D1117&title_color=FF69B4&text_color=c9d1d9&icon_color=FF1493&show_icons=true&hide_border=true&layout=compact&langs_count=6)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessica-gonzalez-ai&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessica-gonzalez-ai&theme=radical&bg_color=0D1117&title_color=FF69B4&text_color=c9d1d9&icon_color=FF1493&show_icons=true&hide_border=true)
 
 ---
 
 ### 💥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=jessica-gonzalez-ai&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jessica-gonzalez-ai&theme=radical&background=0D1117&fire=FF1493&ring=FF69B4&dates=c9d1d9&currStreakNum=FF69B4&sideNums=c9d1d9&currStreakLabel=FF1493&sideLabels=c9d1d9&hide_border=true)
 
 </td>
 </tr>
@@ -116,8 +116,8 @@ Optimization of fitness evaluation using **8 concurrent threads (pthreads)** to 
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-naomi-gonzalez-heredia-a22465405/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessica.gonzalez.heredia.ai@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-naomi-gonzalez-heredia-a22465405/)
+[![Email](https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessica.gonzalez.heredia.ai@gmail.com)
 
 </td>
 </tr>
@@ -130,6 +130,6 @@ Optimization of fitness evaluation using **8 concurrent threads (pthreads)** to 
 🌱 &nbsp; *Building the hardware and software that brings AI to the physical world.* 🌱<br/>
 **Thanks for visiting my profile**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF69B4,FF1493,C71585,9370DB,8A2BE2&height=100&section=footer"/>
 
 </div>
