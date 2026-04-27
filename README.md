@@ -73,7 +73,7 @@ I am an **Artificial Intelligence Engineering** student at the Instituto Tecnol�
 
 Optimization of fitness evaluation using **8 concurrent threads (pthreads)** to significantly reduce computational time. Developed as part of the Parallel Computing coursework.
 
-🔗 Ver repositorio](https://github.com/jessica-gonzalez-ai/Parallel-PSO-C)
+🔗 Ver repositorio] (https://github.com/jessica-gonzalez-ai/Parallel-Genetic-Algorithm-C)
 
 </td></tr></table>
 
