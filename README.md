@@ -65,17 +65,13 @@ I am an **Artificial Intelligence Engineering** student at the Instituto Tecnol�
 
 <td width="50%" valign="top">
 
-### ⭐ Featured Project
+### ⭐ Featured Projects
 
-<table><tr><td>
-
-**🧬 Parallel Genetic Algorithm in C**
-
-Optimization of fitness evaluation using **8 concurrent threads (pthreads)** to significantly reduce computational time. Developed as part of the Parallel Computing coursework.
-
-🔗 Ver repositorio] (https://github.com/jessica-gonzalez-ai/Parallel-Genetic-Algorithm-C)
-
-</td></tr></table>
+- 🧬 **[Parallel Genetic Algorithm in C](https://github.com/jessica-gonzalez-ai/Parallel-Genetic-Algorithm-C)** <br> Optimization using 8 concurrent threads (pthreads).
+- 🚀 **[Parallel PSO with MPI](https://github.com/jessica-gonzalez-ai/Particle-Swarm-Optimization-MPI)** <br> High-performance optimization using MPI in C.
+- 🧠 **[Functional AI Metrics (Haskell)](https://github.com/jessica-gonzalez-ai/AI-Metrics-Analyzer-Haskell)** <br> AI model analysis using pure functional programming.
+- 🏥 **[Hospital Management System (Java)](https://github.com/jessica-gonzalez-ai/Hospital-Management-System-Java)** <br> Robust OOP implementation for healthcare administration.
+- 🔬 **[AlphaFold Protein Vis (Python)](https://github.com/jessica-gonzalez-ai/AlphaFold-Protein-Visualization)** <br> 3D rendering of proteins (Clubes de Ciencia).
 
 ---
 
