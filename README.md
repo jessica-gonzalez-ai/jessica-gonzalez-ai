@@ -131,3 +131,4 @@ I am an **Artificial Intelligence Engineering** student at the Instituto Tecnol√
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF69B4,FF1493,C71585,9370DB,8A2BE2&height=100&section=footer"/>
 
 </div>
+.
