@@ -5,8 +5,8 @@
   <p><b>Artificial Intelligence Engineering Student | Embedded Systems & Computer Vision Developer</b></p>
   
   <p>
-    <img src="https://img.shields.io/badge/AI_ENGINEERING-5TH_SEMESTER-ff1493?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/MATSUO_LAB-UTOKYO_ALUMNA-ff1493?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/AI_ENGINEERING-5TH_SEMESTER-ff007f?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MATSUO_LAB-UTOKYO_ALUMNA-ff007f?style=for-the-badge" />
     <img src="https://img.shields.io/badge/HACKATEC_2026-NATIONAL_FINALIST-c71585?style=for-the-badge" />
     <img src="https://img.shields.io/badge/BIOINFORMATICS_&_AEROSPACE-9370db?style=for-the-badge" />
   </p>
