@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF69B4,FF1493,C71585,9370DB,8A2BE2&height=250&section=header&text=Hi!%20%F0%9F%91%8B%20I%27m%20Jessica&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Student%20%C2%B7%20Global%20Learner%20%C2%B7%20Building%20for%20Impact&descAlignY=60&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF69B4,FF1493,C71585,9370DB,8A2BE2&height=250&section=header&descAlignY=60&descSize=17"/>
 
 <div align="center">
   <h1>Hi there, I'm Jessica Naomi González Heredia 👋</h1>
